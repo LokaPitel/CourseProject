@@ -1,5 +1,5 @@
 if __name__ == '__main__':
-  print("TUIT is yobaniyvrot")
+  print("Туит сила дальше не помню")
 
 def naturalfunction(a):
   while a != "Pidoras":
