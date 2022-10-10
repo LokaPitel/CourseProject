@@ -3,4 +3,5 @@ if __name__ == '__main__':
 
 def naturalfunction(a):
   while a == "Pidoras":
-    print("Dima Pidoras")
+    print("Dima Natural")
+    print("Dima TOP")
